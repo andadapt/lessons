@@ -1,6 +1,7 @@
 [drag=100, drop=center, flow= col]
 ## Starter
 On your mini-whiteboards name as many of the different hardware components that you can see in this picture.
+![](assets/img/hardware/starter.png)
 ---
 [drag=100, drop=center, flow=col]
 
@@ -12,6 +13,7 @@ Identify the different hardware components in a PC
 ---
 [drag=100, drop=center, flow=col]
 
+[drag=50, drop=left, flow=col]
 ### What is Hardware?
 Hardware is the physical parts of the computer which you can touch. Hardware that is inside the computer includes:
 @ol
@@ -24,6 +26,8 @@ Hardware is the physical parts of the computer which you can touch. Hardware tha
 - Hard Drive
 - Optical Drive
 @ol
+[drag=50,drop=right, flow=col]
+![](assets/img/hardware/starter.png)
 ---
 
 [drag=100,drop=center, flow=col]
