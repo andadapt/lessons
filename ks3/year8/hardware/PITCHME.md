@@ -1,6 +1,6 @@
 [drag=100, drop=center, flow= col]
 ## Starter
-On your mini-whiteboards name as many of the different hardware components that you can see in this picture.
+In the chat window name as many of the different hardware components that you can see in this picture.
 ![](assets/img/hardware/starter.png)
 ---
 [drag=100, drop=center, flow=col]
@@ -36,9 +36,9 @@ Hardware is the physical parts of the computer which you can touch. Hardware tha
 ## Task
 **Watch the video about different Computer Hardware, give the video your full attention.**
 
-Now on your mini-whiteboards record the key points from the video.
+Now in the chat windowrecord the key points from the video.
 
-With your shoulder partner compare your points and add if you need to.
+
 ---
 [drag=100, drop=center, flow=col]
 ## Task
@@ -81,11 +81,11 @@ Try to complete the extension questions justifying which computer is most suitab
 ## Plenary
 
 
-I am the smart part of the computer, I complete all the processing
-Everything connects to me, without me none of the other hardware could work together
-I store large amounts of data permanently, even when the power is off.
-I store data that is being used by the CPU, when the power is turned off, all my information is wiped.
-I can read disks using a laser
-I display the images on your screen
+- I am the smart part of the computer, I complete all the processing
+- Everything connects to me, without me none of the other hardware could work together
+- I store large amounts of data permanently, even when the power is off.
+- I store data that is being used by the CPU, when the power is turned off, all my information is wiped.
+- I can read disks using a laser
+- I display the images on your screen
 
-On your mini-whiteboards, write which hardware component I am describing.
+In the chat windowwrite which hardware component I am describing.
