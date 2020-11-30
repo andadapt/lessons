@@ -15,7 +15,7 @@ Identify the different hardware components in a PC
 
 [drag=50, drop=left, flow=col]
 
-**What is Hardware?**
+
 Hardware is the physical parts of the computer which you can touch. Hardware that is inside the computer includes:
 @ol
 
@@ -70,7 +70,7 @@ Extension: Complete the questions converting between the different measurements
 ---
 [drag=100, drop=center, flow=col]
 
-Extension
+## Extension
 Open the Which PC? document.
 
 For each question look at the four computer specifications and decide which computer is most suitable.
@@ -90,11 +90,3 @@ I can read disks using a laser
 I display the images on your screen
 
 On your mini-whiteboards, write which hardware component I am describing.
-SN-CPU
-Motherboard
-Hard Disk
-RAM
-Optical Drive
-Graphics Card
---9
-
