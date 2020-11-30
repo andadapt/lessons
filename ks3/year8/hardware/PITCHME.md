@@ -14,7 +14,8 @@ Identify the different hardware components in a PC
 [drag=100, drop=center, flow=col]
 
 [drag=50, drop=left, flow=col]
-### What is Hardware?
+
+**What is Hardware?**
 Hardware is the physical parts of the computer which you can touch. Hardware that is inside the computer includes:
 @ol
 
