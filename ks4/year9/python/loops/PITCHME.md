@@ -2,11 +2,11 @@
 [drag=100, drop=center, flow=col]
 
 ## Starter
-
-On your MWB solve the following anagram and give the substring indexing. i.e. word[0] + word[3]
+On your MWB write down what the following code would print to screen:
 
 ```python
-word = "tfarcemin"
+for x in range(0,20,5):
+    print(x)
 ```
 
 ---
