@@ -14,7 +14,7 @@ Accessible IT lessons for secondary
 
 
 ## Year 10
-- [python, loops](https://gitpitch.com/andadapt/lessons?p=ks4/year9/python/loops/#/)
+- [python, loops](https://gitpitch.com/andadapt/lessons/main?p=ks4/year9/python/loops/#/)
 
 ## Year 11
 - [CPU Performance & Von Neumann](https://gitpitch.com/andadapt/lessons?p=ks4/year11/cpu#/)
