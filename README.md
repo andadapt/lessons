@@ -7,7 +7,8 @@ Accessible IT lessons for secondary
 
 ## Year8
 - [small basic, Lesson 3](https://gitpitch.com/andadapt/lessons?p=ks3/year8/smallBasic/#/)
-- [Hardware](https://gitpitch.com/andadapt/lessons/main?p=ks3/year8/hardware/#/)- - [small basic, Variables](https://gitpitch.com/andadapt/lessons?p=ks3/year8/smallBasicVariables/#/) unselected
+- [Hardware](https://gitpitch.com/andadapt/lessons/main?p=ks3/year8/hardware/#/) 
+- [small basic, Variables](https://gitpitch.com/andadapt/lessons?p=ks3/year8/smallBasicVariables/#/) unselected
 ## year 9
 
 - [python, substrings](https://gitpitch.com/andadapt/lessons?p=ks4/year9/python/substrings#/)
