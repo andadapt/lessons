@@ -36,7 +36,7 @@ Hardware is the physical parts of the computer which you can touch. Hardware tha
 ## Task
 **Watch the video about different Computer Hardware, give the video your full attention.**
 
-Now in the chat windowrecord the key points from the video.
+Now in the chat window record the key points from the video.
 
 
 ---
@@ -88,4 +88,4 @@ Try to complete the extension questions justifying which computer is most suitab
 - I can read disks using a laser
 - I display the images on your screen
 
-In the chat windowwrite which hardware component I am describing.
+In the chat window write which hardware component I am describing.
