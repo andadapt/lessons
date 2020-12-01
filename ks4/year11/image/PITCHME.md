@@ -127,6 +127,8 @@ Two types of compression
 @ol
 Lossy
 - Lossless
+- Enter in your books as keywords
+
 @ol
 
 ---
@@ -168,6 +170,10 @@ What type of compression would be best suited for:
 [drag=100, drop=center, flow=col]
 
 ## Plenary
+
+
+Describe the difference between lossy and lossless compression and give an example where each would be used [4 marks]
+
 
 
 Metadata
