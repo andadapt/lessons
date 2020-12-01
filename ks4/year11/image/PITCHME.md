@@ -115,7 +115,23 @@ Why could the file sizes be different?
 ---
 [drag=100, drop=center, flow=col]
 
-insert infro about audio
+## Audio FIle Size
+
+The file size of an audio clip is impacted by :
+
+@ol
+- Sampling rate, how many samples are taken in a given window, common is 44,100Hz
+- Bit-depth - same as in images, 16 and 32 bit are common
+- Bit rate - number of bits over a window, e.g. 256Kbs
+- Calculated by - sampling rate * bit-depth
+@ol
+
+---
+[drag=100, drop=center, flow=col]
+
+## Question
+
+Two audio files are 1 minute long, however the file sizes are 1Mb and 3Mb. Explain why this could be the case? [2 marks]
 
 ---
 [drag=100, drop=center, flow=col]
@@ -176,6 +192,3 @@ Describe the difference between lossy and lossless compression and give an examp
 
 
 
-Metadata
-Metadata is data about data - it allows a computer to construct an image. The metadata for an image includes height, width, resolution and colour/bit depth.
----
