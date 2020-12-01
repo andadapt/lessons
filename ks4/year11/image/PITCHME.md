@@ -36,12 +36,20 @@ Von Neumann is a robot...
 
 ## Keywords
 
-add info here
-
 
 ### Pixels
-### Colour Depth
+@ol
+- The dots that make up an image on screen often encoded in RGB and make up the resolution
+@ol
+### Colour Depth/Bit-depth
+@ol
+- Number of colours used to represent an image
+@ol
 ### Meta-data
+@ol
+- Tells the computer its an image and contains info such as resolution and bit-depth
+@ol
+
 ---
 [drag=100, drop=center, flow=col]
 
