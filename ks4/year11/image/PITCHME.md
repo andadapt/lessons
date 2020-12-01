@@ -12,13 +12,14 @@ Von Neumann is a robot...
 ## Image representation
 
 **ASPIRE TO:**
-describe how colour depth and resolution affects file size
-Describe how audio...
-compresion
+- Describe elements that affect image and audio file size
+- Describe what type of compression is suitable for different media types
 
 
 **CHALLENGE TO:**
-explain how binary is used to represent pixels in an image
+- Identify different elements of image and audio files
+- Identify two types of compression
+
 ---
 [drag=100, drop=center, flow=col]
 
@@ -34,6 +35,9 @@ explain how binary is used to represent pixels in an image
 [drag=100, drop=center, flow=col]
 
 ## Keywords
+
+add info here
+
 
 ### Pixels
 ### Colour Depth
@@ -80,6 +84,22 @@ explain how binary is used to represent pixels in an image
 - Larger bit depth results in a larger file
 @ol
 
+---
+[drag=100, drop=center, flow=col]
+
+
+## 24 bit-depth
+
+The colours on a computer like all data can be represented in binary.
+
+RGB is represented by 24 bit-depth.
+
+So what are the following colours?
+@ol
+- 00000000 11111111 00000000
+- 11111111 00000000 00000000
+- 00000000 00000000 111111111
+@ol
 ---
 [drag=100, drop=center, flow=col]
 
@@ -165,7 +185,7 @@ Two types of compression
 ## Lossless
 
 @ol
-- Don't lose any data in the cimpression
+- No data is lost in this compression method
 - Good for text, as don't want to lose information
 @ol
 
