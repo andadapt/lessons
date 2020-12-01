@@ -5,8 +5,8 @@ gitpitch : 4.0
 theme-override: assets/css/PITCHME.css
 
 # Slide Deck Metadata
-title : "Python - Loops"
-description : "python loopsfor KS4, includes demos and work to be completed"
+title : "Revision for images, audio and compression"
+description : "Revision points for 2.6 images, audio and compression"
 thumbnail : assets/img/gitpitch-40-splash.png
 
 

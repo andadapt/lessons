@@ -25,8 +25,8 @@ explain how binary is used to represent pixels in an image
 ## Image Representation
 @ol
 - Pixels
-- colour depth
-- meta-data
+- Colour depth
+- Meta-data
 
 @ol
 
@@ -44,15 +44,15 @@ explain how binary is used to represent pixels in an image
 ## Pixels
 
 @ol
-- what makes up the image on screen 
-- resolution
-- larger the resolution, larger the image file size
+- What makes up the image on screen 
+- Resolution
+- Larger the resolution, larger the image file size
 @ol
 ---
 [drag=100, drop=center, flow=col]
 
 ## Colour Depth
-##@ Bit depth
+###  Bit depth
 
 ---
 [drag=100, drop=center, flow=col]
@@ -75,7 +75,7 @@ explain how binary is used to represent pixels in an image
 ## Bit Depth
 
 @ol
-- increased bit depth allows more colours 
+- Increased bit depth allows more colours 
 - 32-bit is 4.2 billion colours
 - Larger bit depth results in a larger file
 @ol
@@ -86,8 +86,8 @@ explain how binary is used to represent pixels in an image
 ## Meta-data
 
 @ol
-- contains additional information about the image
-- resolution, bit depth, even GPS co-ordinates
+- Contains additional information about the image
+- Resolution, bit depth, even GPS co-ordinates
 @ol
 
 ---
@@ -125,7 +125,7 @@ insert infro about audio
 Two types of compression
 
 @ol
-Lossy
+- Lossy
 - Lossless
 - Enter in your books as keywords
 
@@ -140,7 +140,7 @@ Lossy
 @ol
 - Lose information in the compression
 - Images such as jpg
-- audio such as MP3
+- Audio such as MP3
 @ol
 
 ---
@@ -149,7 +149,7 @@ Lossy
 ## Lossless
 
 @ol
-- Dont lose any data in the cimpression
+- Don't lose any data in the cimpression
 - Good for text, as don't want to lose information
 @ol
 
