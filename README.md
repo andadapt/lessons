@@ -21,5 +21,6 @@ Accessible IT lessons for secondary
 
 ## Year 11
 - [CPU Performance & Von Neumann](https://gitpitch.com/andadapt/lessons?p=ks4/year11/cpu#/)
+- [Images, audio and Compression](https://gitpitch.com/andadapt/lessons/main?p=ks4/year11/image/#/)
 ## year 13
 - [xmas decoration](https://gitpitch.com/andadapt/lessons?p=ks5/year13/xmas#/)
