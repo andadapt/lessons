@@ -137,13 +137,13 @@ Why could the file sizes be different?
 
 @ol
 - Sound is sampled and stored in digital form
-- Sampling size, bit rate and frequency affect file size
+- Sampling size, bit rate and bit-depthaffect file size
 @ol
 
 ---
 [drag=100, drop=center, flow=col]
 
-## Audio FIle Size
+## Audio File Size
 
 The file size of an audio clip is impacted by :
 
