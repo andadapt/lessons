@@ -1,0 +1,10 @@
+TextWindow.WriteLine(" How old are you?")
+TextWindow.Write(" ")
+age = TextWindow.Read()
+If age > 19 Then
+  TextWindow.WriteLine(" Wow you are old!")
+ElseIf age > 12 Then
+  TextWindow.WriteLine(" Hey there teenager!")
+Else
+  TextWindow.WriteLine(" Hey there youngster!")
+EndIf

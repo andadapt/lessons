@@ -1,0 +1,13 @@
+TextWindow.WriteLine("Welcome to the Planets Quiz. You are going to be asked five questions, how many can you get right?")
+TextWindow.WriteLine("Question 1: Which is third planet from the sun?")
+TextWindow.WriteLine("A: Mercury")
+TextWindow.WriteLine("B: Venus")
+TextWindow.WriteLine("C: Earth")
+TextWindow.WriteLine("D: Mars")
+answer = TextWindow.Read()
+If answer = "A" Then
+  TextWindow.WriteLine("Correct, well done!")
+Else
+  TextWindow.WriteLine("Wrong, the correct answer was Earth")
+EndIf 
+ 
