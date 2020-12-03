@@ -15,8 +15,8 @@ dogAge = age * 7
 
 What are the symbols in small basic for:
 @ol
-- addition
-- multiplication
+- Addition
+- Multiplication
 - Divide
 @ol
 
@@ -29,10 +29,10 @@ What are the symbols in small basic for:
 @ol
 **ASPIRE to:**
 
-- demonstrate the use of selection with multiple conditions
+- Demonstrate the use of selection with multiple conditions
 **CHALLENGE to:**
 
-- demonstrate the use of selection with a single condition
+- Demonstrate the use of selection with a single condition
 @ol
 ---
 [drag=100, drop=center, flow=col]
@@ -70,7 +70,7 @@ Use the code to create the program so it works like the example shown.
 ## Done? 
 Screenshot your code and add it to your programming diary
 
-Simon - insert gif
+
   
 REMEMBER:
 If CONDITION Then
@@ -80,18 +80,16 @@ Else
 EndIf
 ---  
 [drag=100, drop=center, flow=col]
-## Multiple Conditions
+### Multiple Conditions
 
 Sometimes you may want to check more than one condition in a program.
 @ol
 - For example:
 - “If the guess isn’t the correct number,  check whether their guess is higher or lower than the number they are trying to guess to give them a clue”
-
-
 - If you want to make more than one check, you can use ElseIf, look at the example to the right.
 @ol
 
-```basic```
+```basic
 numberToGuess = 9
 TextWindow.WriteLine(“Enter a number:”)
 guess = TextWindow.Read()
@@ -103,9 +101,6 @@ Else
   TextWindow.WriteLine(“Your guess was too low!”)
 EndIf
 ```
-
-SN-
-Go through how this example program works and ask students why we do not need to check if the guess was too low. Answer: It is the only other option!
 ---
 [drag=100, drop=center, flow=col]
 ## Task
@@ -122,7 +117,7 @@ Use the code from the program you have just made to change your program so that:
 ## Done? 
 Screenshot your code and add it to your programming diary
 
-Simon - insert gif
+
   
 REMEMBER:
 If CONDITION1 Then
@@ -133,6 +128,10 @@ Else
    DO IF BOTH CONDITIONS ARE FALSE
 EndIf
   
+---
+[drag=100,drop=center, flow=col]
+
+![](assets/img/year8/task2.gif)
 ---
 [drag=100, drop=center, flow=col]
 
@@ -152,11 +151,6 @@ Else
 EndIf
 TextWindow.WriteLine(number)
 ```
-SN-
-Answer:
-45
-10 (as the symbol is greater than 20 not greater than or equal to)
-4
 ---
 [drag=100, drop=center, flow=col]
 
@@ -180,42 +174,10 @@ Else
 EndIf
 TextWindow.WriteLine(number)
 ```
-SN- Answer:
-140
-34
-1
+
+
 ---
-[drag=100, drop=center, flow=col]
-## Progress Check
 
-  
-On your mini-whiteboards answer the following questions:
-
-What would the program display if number was:
-- 27
-- 32
-- 18
-
-
-```basic
-If number > 20 Then
-  If number > 30 Then
-    number = number + 10
-  Else
-    number = number + 5
-  EndIf
-ElseIf number > 10 Then
-  number = number * 10
-Else
-  number = number - 5
-EndIf
-TextWindow.WriteLine(number)
-```
-SN-Answer:
-32
-42
-180
----
 [drag=100, drop=center, flow=col]
 ## Task  
 
@@ -223,10 +185,10 @@ Try to complete Task 3 - Planet Quiz
 
 Use the success criteria to create a program to ask five different questions about the planets.
 
-##Done? 
+## Done? 
 Screenshot your program and add it to your programming diary. Then try to complete extensions for the task.
 
-Simon- insert picture 
+
 
 ---
 [drag=100, drop=center, flow=col]
