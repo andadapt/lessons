@@ -2,7 +2,8 @@
 
 ## Starter
 
-How many varibles are in the code below?
+How many variables are there in the code below:
+
 
 ```basic
 TextWindow.WriteLine("What is your name?")
@@ -85,6 +86,8 @@ Sometimes you may want to check more than one condition in a program.
 @ol
 - For example:
 - “If the guess isn’t the correct number,  check whether their guess is higher or lower than the number they are trying to guess to give them a clue”
+
+
 - If you want to make more than one check, you can use ElseIf, look at the example to the right.
 @ol
 
