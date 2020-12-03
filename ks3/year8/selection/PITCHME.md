@@ -204,5 +204,5 @@ if number > 20 then
     TextWindow.WriteLine("No Fortnite for you!")
 ElseIf number <= 20 Then
     TextWindow.Writeline("Lets get building a fort!")
-    EndIf
+EndIf
 ```
