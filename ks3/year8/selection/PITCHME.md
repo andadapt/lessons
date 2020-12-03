@@ -143,7 +143,7 @@ What would the program display if number was:
 - 35
 - 20
 - 14
-  ```basic
+```basic```
 If number > 20 Then
   number = number + 10
 Else
