@@ -167,13 +167,12 @@ What would the program display if number was:
 - 6
 
 ```basic    
-If number > 20 Then
-  number = number + 10
-ElseIf number > 10 Then
-  number = number * 10
-Else
-  number = number - 5
-EndIf
+answer = 0
+
+while answer < 3:
+    answer = answer + 1
+    print(answer)
+    
 TextWindow.WriteLine(number)
 ```
 
@@ -196,16 +195,16 @@ Screenshot your program and add it to your programming diary. Then try to comple
 [drag=100, drop=center, flow=col]
 ## Plenary
 
-Open: Selection Plenary
+On your MWB write down the answer for the following code snippet:
 
-Read the program and replace the comments with the Small Basic code, see the example to the right.
+```basic
 
-HINT: Look at some of the code that is already in the program to help you.
-Plenary
+number = 20
 
-Simon - insert picture 
-
-SN- You could peer-assess this using Q&A with students
-
-
+if number > 20 then
+    TextWindow.WriteLine("No Fortnite for you!")
+ElseIf number <= 20 Then
+    TextWindow.Writeline("Lets get building a fort!")>
+    EndIf
+    ```
 
