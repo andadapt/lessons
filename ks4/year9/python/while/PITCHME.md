@@ -107,22 +107,4 @@ Describe how a FOR/WHILE loop might benefit a program
 
 what is wrong with the following python code:
 
-```python
-while counter < 10:
-	print("yipee")
-	counter = counter + 1
-```
 
-
-
-On your MWB write down the last number to be output for the following code:
-
-```python
-answer = 0
-
-while answer < 3:
-    answer = answer + 1
-    print(answer)
-    
-
-	```
