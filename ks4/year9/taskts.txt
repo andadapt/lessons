@@ -1,0 +1,40 @@
+task 1
+
+guess the number
+
+create a variable called answers
+set it to 15
+
+create a variable userEntry and set it to blank
+
+add a while
+
+while answer != userNetry:
+usernetry = int(input("enter a nuner between 1 and 20)
+
+will loop while not equal to.
+print to output when out of loop
+
+extension:
+
+count number of attempts
+check a number is entered
+
+Task2
+
+adding numbers
+
+keep asking user for a number and keep a taoal until they enter dont enter a number
+
+total = 0
+another = y
+
+while repeat while another = y
+input inside loop
+
+
+
+extension
+count number of nubmbers enetered, get the average
+
+
