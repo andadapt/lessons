@@ -74,15 +74,13 @@ Once completed move onto slide 4-8 and screenshot your program
 On your MWB write down the answer.
 
 - what would be the last number printed with the following code?
-
-```python```
+```python
 answer = 0
 
 while answer < 3:
     answer = answer + 1
     print(answer)
-    
-	```
+```
 
 ---
 [drag=100, drop=center, flow=col]
