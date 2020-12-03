@@ -15,7 +15,7 @@ Accessible IT lessons for secondary
 ## year 9
 
 - [python, substrings](https://gitpitch.com/andadapt/lessons?p=ks4/year9/python/substrings#/)
-
+- [Python - While](https://gitpitch.com/andadapt/lessons/main?p=ks4/year9/python/while/#/)
 
 ## Year 10
 - [python, loops](https://gitpitch.com/andadapt/lessons/main?p=ks4/year9/python/loops/#/)
