@@ -198,13 +198,12 @@ Screenshot your program and add it to your programming diary. Then try to comple
 On your MWB write down the answer for the following code snippet:
 
 ```basic
-
 number = 20
 
 if number > 20 then
     TextWindow.WriteLine("No Fortnite for you!")
 ElseIf number <= 20 Then
-    TextWindow.Writeline("Lets get building a fort!")>
+    TextWindow.Writeline("Lets get building a fort!")
     EndIf
     ```
 
