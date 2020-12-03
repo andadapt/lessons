@@ -19,7 +19,15 @@ while answer != userEntry:
 
 print("Well done you got it right!")
 
+MWB while check:
+answer = 0
 
+while answer < 3:
+    answer = answer + 1
+    print(answer)
+    
+
+    emma the answer is 3
 Task 2:
 total = 0
 another = ""
@@ -31,6 +39,7 @@ while another != "n":
 
 print("your total is ", total)
     
+
 
 
     

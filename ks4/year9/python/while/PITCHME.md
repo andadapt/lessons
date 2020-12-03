@@ -5,7 +5,7 @@ ON your MWB answer the following questions, one at a time!
 What would the output for the following code be:
 
 ```python
-for x in range(5,10(:
+for x in range(5,10):
     print(x)
 ```))
 - A - 0 5 10
@@ -34,18 +34,8 @@ Apply a loop to a Python program making them easier to understand
 
 **CHALLENGE TO:** 
 Describe how a FOR/WHILE loop might benefit a program
----
 
-[drag=100, drop=center, flow=col]
 
-## Plenary
-
-On your MWB write down what would happen with the following code:
-
-```python
-for x in range(100):
-	print(y)
-```
 ---
 [drag=100, drop=center, flow=col]
 ### Iteration Reminder
@@ -62,12 +52,7 @@ Iteration is the process of repeating something until a condition is met.
 
 ## Let’s Take A Look
 
-```python
-userentry = "y"
 
-while usernetry != "n":
-	userentry = input("Play again? Y/N")
-```
 
 ![](assets/img/pythonLoops/while.png)
 ---
@@ -81,8 +66,26 @@ You need to create a program that checks user entry from an input and if the num
 ![](assets/img/pythonLoops/task.gif)
 Once completed move onto slide 4-8 and screenshot your program
 ---
+
 [drag=100, drop=center, flow=col]
-## TAME Tasks - WHILE Loops
+
+## Progress check
+
+On your
+
+- what would be the last number printed with the following code?
+
+```python
+answer = 0
+
+while answer < 3:
+    answer = answer + 1
+    print(answer)
+    
+	```
+
+[drag=100, drop=center, flow=col]
+## Task 2 & TAME
 Test - Create and test your program on Slide 10 - 12
 @ol
 - Evaluate - on slide 19 there is an example program that has been created for you. You should answer the question.
@@ -112,3 +115,14 @@ while counter < 10:
 
 
 
+On your MWB write down the last number to be output for the following code:
+
+```python
+answer = 0
+
+while answer < 3:
+    answer = answer + 1
+    print(answer)
+    
+
+	```

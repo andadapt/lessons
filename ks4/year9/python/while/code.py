@@ -1,10 +1,5 @@
-total = 0
-another = ""
 
-while another != "n":
-    x = int(input("enter a number to add"))
-    total = total + x
-    another = input("Do you want to enter another number? y or n")
+while counter < 10:
+	print("yipee")
+	counter = counter + 1
 
-print("your total is ", total)
-    
