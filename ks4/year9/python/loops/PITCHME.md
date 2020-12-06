@@ -1,15 +1,36 @@
-
-[drag=100, drop=center, flow=col]
+[drag=100,drop=center, flow=col]
 
 ## Starter
-On your MWB write down what the following code would print to screen:
+
+ON your MWB answer the following questions, one at a time!
+
+What would the output for the following code be:
+
+```python
+for x in range(5,10):
+    print(x)
+```))
+- A - 0 5 10
+- B - 5 6 7 8 9 10
+- C - 0 1 2 3 4 5 6 7 8 9
+- D - 5 6 7 8 9 
+
+For the Following code what would the output be?
 
 ```python
 for x in range(0,20,5):
     print(x)
 ```
 
+- A - 0 5 10 15
+- B - 0 10 20 30 40 50 60 70 80 90 100
+- C - 0 5 10 15 20
+- D - 0 1 2 3 4 5 6 7 8 9 10
+
+
 ---
+
+
 [drag=100, drop=center, flow=col]
 
 ## Python - FOR/WHILE Loops
