@@ -214,13 +214,10 @@ Describe how a FOR/WHILE loop might benefit a program
 [drag=100, drop=center, flow=col]
 ## Plenary
 
-what is wrong with the following python code:
+what would the last number printed from the following loop be?
+
 
 ```python
-while counter < 10:
-	print("yipee")
-	counter = counter + 1
+for x in range(0,10):
+    print(x + 1)
 ```
-
-
-
