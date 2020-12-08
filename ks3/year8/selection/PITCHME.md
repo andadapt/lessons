@@ -78,6 +78,10 @@ If CONDITION Then
 Else
    DO IF CONDITION IS FALSE
 EndIf
+---
+[drag=100,drop=center,flow=col]
+
+![](assets/img/year8/task1.gif)
 ---  
 [drag=100, drop=center, flow=col]
 ### Multiple Conditions
@@ -166,16 +170,16 @@ What would the program display if number was:
 - 24
 - 6
 
-```basic    
-answer = 0
-
-while answer < 3:
-    answer = answer + 1
-    print(answer)
-    
+```basic
+if number > 20 Then
+	number = number + 10
+ElseIf number > 10 Then
+	number = number * 10
+Else
+	number = number -5
+EndIf
 TextWindow.WriteLine(number)
 ```
-
 
 ---
 

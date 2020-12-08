@@ -1,5 +1,9 @@
-word = "yo"
+vowels = 0
 
-for x in range(0,5):
-    if word[x] == "e":
-        print("found")
+word = "aab"
+
+for x in range(0,2):
+    if word[x] == "a":
+        vowels = vowels + 1
+
+print(vowels)
