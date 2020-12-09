@@ -141,12 +141,14 @@ EndIf
 
 ## Progress Check
   
-On your mini-whiteboards answer the following questions:
+Get ready to answer the following questions:
 
 What would the program display if number was:
+@ol
 - 35
 - 20
 - 14
+@ol
 
 
 ```basic
@@ -163,12 +165,14 @@ TextWindow.WriteLine(number)
 ## Progress Check
 
   
-On your mini-whiteboards answer the following questions:
+Get ready to answer the following questions:
 
 What would the program display if number was:
+@ol
 - 14
 - 24
 - 6
+@ol
 
 ```basic
 if number > 20 Then
