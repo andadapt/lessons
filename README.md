@@ -29,3 +29,4 @@ Accessible IT lessons for secondary
 ## Christmas
 
 - [Christmas codeding](https://gitpitch.com/andadapt/lessons/main?p=xmas/)
+- [Christmas small basic](https://gitpitch.com/andadapt/lessons/main?p=ks3/year8/xmas/)
