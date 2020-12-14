@@ -25,3 +25,7 @@ Accessible IT lessons for secondary
 - [Images, audio and Compression](https://gitpitch.com/andadapt/lessons/main?p=ks4/year11/image/#/)
 ## year 13
 - [xmas decoration](https://gitpitch.com/andadapt/lessons?p=ks5/year13/xmas#/)
+
+## Christmas
+
+- [Christmas codeding](https://gitpitch.com/andadapt/lessons/main?p=xmas/)
