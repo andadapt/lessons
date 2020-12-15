@@ -3,7 +3,7 @@
 
 Which of the following changes the background colour in small basic?
 
-- A - TextWindow.BackgroundColour=("blue")
+- A - TextWindow.BackgroundColour="blue"
 - B - TextWindow.BackgroundColor= "blue"
 - C - TextWindow.Bckgroundcolor("Blue")
 
@@ -81,7 +81,7 @@ TextWindow.WriteLine(number)
 @ol
 - How do you print a message on screen?
 - Get input from a user?
-- What are the boces we store numbers and text in called?
+- What are the boxeswe store numbers and text in called?
 - What is the code for changing background colour?
 @ol
 
