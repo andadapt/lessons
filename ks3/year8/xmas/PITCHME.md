@@ -16,9 +16,9 @@ Which code snippet changes the font color?
 ---
 [drag=100,drop=center, flow=col]
 
-## 🎅 ⛄ 🧝
+## 🎅 ⛄ 🎁
 
-Its christmas so lets hve some fun!
+It's christmas so lets have some fun!
 
 The best drawing in Small Basic wins a special prize!
 
