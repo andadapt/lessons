@@ -21,6 +21,7 @@ Accessible IT lessons for secondary
 - [python, loops](https://gitpitch.com/andadapt/lessons/main?p=ks4/year9/python/loops/#/)
 
 ## Year 11
+- [Network Protocols](https://gitpitch.com/andadapt/lessons/main?p=ks4/year11/protocols/)
 - [CPU Performance & Von Neumann](https://gitpitch.com/andadapt/lessons?p=ks4/year11/cpu#/)
 - [Images, audio and Compression](https://gitpitch.com/andadapt/lessons/main?p=ks4/year11/image/#/)
 ## year 13
