@@ -48,7 +48,7 @@ Complete the Jamboard from the chat link
 ## HTTP/HTTPS
 HyperText Transfer Protocol/Secure
 
-### What does it do?
+## What does it do?
 @ol
 - Webpages
 - Secure webpages
@@ -62,7 +62,7 @@ HyperText Transfer Protocol/Secure
 ## FTP
 File Transfer Protocol
 
-### What does it do?
+## What does it do?
 - Transferring large files over the internet, such as ISO's
 
 ---
@@ -82,7 +82,7 @@ Internet Message Access Protocol
 ## POP
 Post Office Protocol
 
-### What does it do?
+## What does it do?
 - Retrieves and REMOVES from server
 
 ---
@@ -92,10 +92,10 @@ Post Office Protocol
 ## SMTP
 Simple Mail Transfer Protocol
 
-### What does it do?
+## What does it do?
 - Sends e-mail across the internet
 ---
-[drag=100, drop=center, flow=
+[drag=100, drop=center, flow=col]
 
 ## Jamboard 🎉
 ---
